@@ -40,7 +40,7 @@ public class MainActivity extends AppCompatActivity
         toggle.syncState();
         navigationView.setNavigationItemSelectedListener(this);
 
-        int a = 1;
+        int a = 2;
         int b = 2;
         int c = a+b;
     }
